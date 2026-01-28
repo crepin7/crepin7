@@ -66,11 +66,3 @@
 <p align="center">
   💬 Open to <b>freelance</b>, <b>collaborations</b> & tech discussions!
 </p>
-
-## Mes contributions en mode serpent 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/crepin7/crepin7/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/crepin7/crepin7/raw/output/github-snake.svg" />
-  <img alt="github snake" src="https://github.com/crepin7/crepin7/raw/main/github-snake.svg" />
-</picture>
