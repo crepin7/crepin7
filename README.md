@@ -35,9 +35,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=crepin7&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crepin7&layout=compact&theme=tokyonight" />
 </p>
 
